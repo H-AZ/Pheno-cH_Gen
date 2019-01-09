@@ -1,0 +1,3 @@
+generate p p > t t~ z
+add process p p > t t~ w+
+add process p p > t t~ w-

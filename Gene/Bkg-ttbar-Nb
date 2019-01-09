@@ -1,0 +1,6 @@
+define p = g u c d s u~ c~ d~ s~ b b~
+generate p p > t t~ b
+add process p p > t t~ b~
+add process p p > t t~ b b
+add process p p > t t~ b~ b
+add process p p > t t~ b~ b~

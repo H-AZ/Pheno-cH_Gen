@@ -1,0 +1,8 @@
+import model_v4 2HDMC
+define p = g u c d s u~ c~ d~ s~ b b~
+generate p p > h- h1, (h- > w- h1, h1 > ta+ ta-, w- > l- vl~ )
+
+
+add process p p > h- t, (h- > w- h1, h1 > ta+ ta-, w- > j j )
+add process p p > h+ t~, (h+ > w+ h1, h1 > ta+ ta-, w+ > l+ vl )
+add process p p > h+ t~, (h+ > w+ h1, h1 > ta+ ta-, w+ > j j )
